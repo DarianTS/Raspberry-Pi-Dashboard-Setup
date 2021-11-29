@@ -47,3 +47,5 @@ WantedBy=graphical.target
 
 sudo systemctl enable kiosk.service
 sudo systemctl start kiosk.service
+
+sudo reboot now
